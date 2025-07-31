@@ -1,0 +1,8 @@
+
+   /* font-size: 100px;  Comando que aumenta o texto*/
+   /* background-color: aqua; Comando para alterar cor de fundo*/
+   /* header, nav, section, article, aside, main, footer  A virgula serve como E*/ 
+ /*width: 100vw; Propriedades de tamanhos
+    height: 100vh;
+
+    margin: 0px; Propriedades de espaçamento*/

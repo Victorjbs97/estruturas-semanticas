@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#nivel_danoninho{
+    background-color: bisque;
+    padding: 10px;
+}
+
+#cabecalho{
+    background-color: cornflowerblue;
+    height: 66px;
+}
+
+#conteudo_principal{
+    display: flex;
+}
+
+.nivelDanoninho{
+    width: 50%;
+    height: 300px;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+
+#divisao1{
+    background-color: aqua;
+}

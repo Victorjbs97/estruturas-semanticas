@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#nivel_agua{
+    background-color: rgb(255, 208, 0);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nivelAgua{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    background-color: rgb(255, 0, 0);
+}

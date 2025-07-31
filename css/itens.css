@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    background-color: blue;
+    height: 100px;
+
+}
+
+#bloco1{
+    background-color: purple;
+    /* Grow - prioridade de aumento;; shink prioridade de diminuir;; basic minimo do tamanho */
+
+    flex: 1 0 100px;
+}
+
+#bloco2{
+    background-color: yellow;
+    flex-basis: 100px;
+    flex-grow: 1;
+    order: 3;
+}
+
+#bloco3{
+    background-color: red;
+    flex-basis: 100px;
+    order: 1;
+}
+
+section{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+
+    height: 70vh;
+
+    gap: 10px;
+}
